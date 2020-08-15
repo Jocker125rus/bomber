@@ -4,7 +4,7 @@ Duplo Bomber
 
 устанавливать
 apt update && apt upgrade
-pkg установить python
+pkg python && pkg python2
 apt install git
 git clone https://github.com/jocker125rus/smsbomber
 cd smsbomber
